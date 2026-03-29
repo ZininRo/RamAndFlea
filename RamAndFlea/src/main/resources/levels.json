@@ -1,0 +1,69 @@
+{
+  "levels": [
+    {
+      "levelNumber": 1,
+      "totalFleas": 3,
+      "objects": [
+        { "type": "BLOCK", "x": 700, "y": 510, "width": 80, "height": 80, "destructible": false},
+        { "type": "BLOCK", "x": 700, "y": 430, "width": 80, "height": 80, "destructible": true},
+
+        { "type": "RAM", "x": 700, "y": 340, "width": 100, "height": 100, "hp": 100 }
+
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "totalFleas": 4,
+      "objects": [
+
+        { "type": "BLOCK", "x": 950, "y": 510, "width": 80, "height": 80, "destructible": false },
+        { "type": "BLOCK", "x": 950, "y": 430, "width": 80, "height": 80, "destructible": true },
+        { "type": "RAM", "x": 950, "y": 340, "width": 100, "height": 100, "hp": 10 },
+
+        { "type": "BLOCK", "x": 470, "y": 530, "width": 40, "height": 40, "destructible": false },
+        { "type": "BLOCK", "x": 510, "y": 530, "width": 40, "height": 40, "destructible": false },
+        { "type": "BLOCK", "x": 550, "y": 530, "width": 40, "height": 40, "destructible": false },
+        { "type": "BLOCK", "x": 590, "y": 530, "width": 40, "height": 40, "destructible": false },
+        { "type": "BLOCK", "x": 630, "y": 530, "width": 40, "height": 40, "destructible": false },
+
+        { "type": "BLOCK", "x": 510, "y": 490, "width": 40, "height": 40, "destructible": false },
+        { "type": "BLOCK", "x": 550, "y": 490, "width": 40, "height": 40, "destructible": true },
+        { "type": "BLOCK", "x": 590, "y": 490, "width": 40, "height": 40, "destructible": true },
+        { "type": "BLOCK", "x": 630, "y": 490, "width": 40, "height": 40, "destructible": false },
+
+        { "type": "BLOCK", "x": 510, "y": 450, "width": 40, "height": 40, "destructible": true },
+        { "type": "BLOCK", "x": 630, "y": 450, "width": 40, "height": 40, "destructible": false },
+
+        { "type": "BLOCK", "x": 510, "y": 410, "width": 40, "height": 40, "destructible": true},
+        { "type": "BLOCK", "x": 630, "y": 410, "width": 40, "height": 40, "destructible": false },
+
+        { "type": "BLOCK", "x": 570, "y": 380, "width": 160, "height": 20, "destructible": false },
+
+        { "type": "RAM", "x": 570, "y": 430, "width": 80, "height": 80, "hp": 150 }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "totalFleas": 5,
+      "objects": [
+        { "type": "BLOCK", "x": 900, "y": 480, "width": 170, "height": 20, "destructible": false},
+        { "type": "BLOCK", "x": 900, "y": 520, "width": 60, "height": 60, "destructible": true},
+        { "type": "RAM", "x": 900, "y": 440, "width": 80, "height": 80, "hp": 2 },
+
+        { "type": "BLOCK", "x": 700, "y": 520, "width": 60, "height": 60, "destructible": false},
+        { "type": "BLOCK", "x": 700, "y": 460, "width": 60, "height": 60, "destructible": true},
+        { "type": "BLOCK", "x": 700, "y": 400, "width": 60, "height": 60, "destructible": false},
+        { "type": "RAM", "x": 700, "y": 340, "width": 80, "height": 80, "hp": 2 },
+
+        { "type": "BLOCK", "x": 500, "y": 520, "width": 60, "height": 60, "destructible": true},
+        { "type": "BLOCK", "x": 500, "y": 460, "width": 60, "height": 60, "destructible": false},
+        { "type": "BLOCK", "x": 500, "y": 400, "width": 60, "height": 60, "destructible": true},
+        { "type": "BLOCK", "x": 500, "y": 340, "width": 60, "height": 60, "destructible": false},
+        { "type": "BLOCK", "x": 500, "y": 280, "width": 60, "height": 60, "destructible": false},
+        { "type": "BLOCK", "x": 500, "y": 240, "width": 370, "height": 20, "destructible": true},
+        { "type": "RAM", "x": 350, "y": 200, "width": 80, "height": 80, "hp": 2 },
+        { "type": "RAM", "x": 650, "y": 200, "width": 80, "height": 80, "hp": 3 }
+      ]
+    }
+  ]
+}
