@@ -90,7 +90,7 @@ public class LoginWindow extends BaseWindow {
         if (!success) {
             messageLabel.setText("Имя занято!");
         } else {
-            messageLabel.setText("Пользователь " + username + " зарегистрирован!");
+            messageLabel.setText("Регистрация успешна");
         }
     }
     /**
