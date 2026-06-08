@@ -89,6 +89,7 @@ src/main/java/org/example/
 
 ```bash
 # Клонировать репозиторий
+git clone https://github.com/ZininRo/RamAndFlea.git
 # Запустить
 RamAndFlea_jar\RamAndFlea.jar
 ```
